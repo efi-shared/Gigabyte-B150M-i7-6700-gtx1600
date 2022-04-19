@@ -1,5 +1,6 @@
 ## Hackintosh
 - OpenCore 0.7.9
+- Dmg with macOS High Sierra [Download](https://drive.google.com/file/d/1PG7IoVyfIbquvDklTMmRfKteO6rUVRjP/view?usp=sharing)
 
 ## 配置
 ```
